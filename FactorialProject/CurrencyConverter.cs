@@ -8,6 +8,7 @@ namespace FactorialProject
 {
     public class CurrencyConverter
     {
+        //just trying out
         RateRetriever r;
 
         public CurrencyConverter(RateRetriever rateRet)
